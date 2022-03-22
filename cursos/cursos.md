@@ -1,4 +1,4 @@
-#Cursos DIO
+# Cursos DIO
 Lista de cursos concluídos na DIO.
 
 - **Pensamento Computacional**
