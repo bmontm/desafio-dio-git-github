@@ -1,2 +1,3 @@
-# desafio-dio-git-github
-Desafio DIO - Curso GIT/GitHub
+# Desafio GIT/GitHub
+Criação de repositório para um novo projeto 📁
+
